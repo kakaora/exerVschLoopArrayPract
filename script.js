@@ -48,4 +48,3 @@ for (var j = 0; j < length2; j++){
 }
         
 }
-console.log(count)
